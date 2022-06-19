@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RaposaFeliz/RaposaFeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=C0F7E6&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
