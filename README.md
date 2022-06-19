@@ -1,6 +1,7 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&duration=6008&color=9F9F9F&center=true&vCenter=true&width=500&height=100&lines=Ol%C3%A1+eu+sou+Pedro+e+este+%C3%A9+meu+github)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?text=Olá me chamo Pedro!✨&animation=fadeIn&type=waving&color=gradient&customColorList=14&height=100"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&duration=6008&color=9F9F9F&center=true&vCenter=true&width=500&height=100&lines=Estudando,+Desnvolvendo+e+Codando+^^)](https://git.io/typing-svg)
 
   
 <div style="display: inline_block;">
@@ -14,9 +15,11 @@
 
 ##
 
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wwpedro&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <div style="display: inline_block">
   <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wwpedro&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
