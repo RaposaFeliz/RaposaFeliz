@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&duration=6008&color=9F9F9F&center=true&vCenter=true&width=500&height=100&lines=Ol%C3%A1+este+%C3%A9+meu+github)](https://git.io/typing-svg)
+<div style="align-items: center; justify-content: center;">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&duration=6008&color=9F9F9F&center=true&vCenter=true&width=500&height=100&lines=Ol%C3%A1+este+%C3%A9+meu+github)](https://git.io/typing-svg)
+</div>
