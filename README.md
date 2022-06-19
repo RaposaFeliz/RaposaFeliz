@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=C0F7E6&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=C0F7E6&center=true&vCenter=true&multiline=true&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
