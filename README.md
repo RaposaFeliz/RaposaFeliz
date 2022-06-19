@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?text=Olá me chamo Pedro!✨&animation=fadeIn&type=waving&color=gradient&customColorList=14&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=Olá Visitante!&animation=fadeIn&type=waving&color=gradient&customColorList=14&height=100"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&duration=6008&color=9F9F9F&center=true&vCenter=true&width=500&height=100&lines=Estudando,+Desnvolvendo+e+Codando+^^)](https://git.io/typing-svg)
 
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&size=15&duration=7000&color=9F9F9F&width=550&height=100&lines=Me+chamo+Pedro+%5E%5E%2C+e+estou+sempre+Estudando%2C+Desenvolvendo+e++Codando...)](https://git.io/typing-svg)  
 <div style="display: inline_block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
